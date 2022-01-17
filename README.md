@@ -2,8 +2,10 @@
 
 ## Minio version is: `2019-04-23T23:50:36Z`
 
-# NOTE `Subutai container does not support O_DIRECT at this moment, we can update minio after enable it.`
-
+## NOTE
+```
+Subutai container does not support O_DIRECT at this moment, we can update minio after enable it.
+```
 
 **Subutai Minio Blueprint** to install MinIO in distributed mode.
 
