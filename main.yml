@@ -4,7 +4,7 @@
   tasks:
     - name: Download minio server
       shell:
-        cmd: wget --no-check-certificate -O /tmp/minio https://ipfs.subutai.io/ipfs/QmYtwFWgiBkKHQGcG9PCmBZNJ2rAfLp8WtgLS2A6qXhaHk/minio
+        cmd: wget --no-check-certificate -O /tmp/minio https://ipfs.subutai.io/ipfs/QmYeLqo4amxoYBuyF4kvaPvYbRkTXTHuekXUsVj6uwvcFc/minio
 
     - name: Download minio client
       shell:
