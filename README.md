@@ -1,5 +1,10 @@
 # Subutai Minio Blueprint 
 
+## Minio version is: `2019-04-23T23:50:36Z`
+
+# NOTE `Subutai container does not support O_DIRECT at this moment, we can update minio after enable it.`
+
+
 **Subutai Minio Blueprint** to install MinIO in distributed mode.
 
 ![wizard](https://ipfs.subutai.io/ipfs/QmSqVD4eu8HaZk1PXgwoMVNNX2B1yHJFvyrm4a5wjd3Cus/minioWizardMini.png)
